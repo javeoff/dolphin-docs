@@ -1,5 +1,7 @@
 # Dolphin Anty Documentation
 
+Official Documentation [Website](https://javeoff.docsbook.io/dolphin-docs)
+
 Dolphin Anty is an antidetect browser designed for multi-accounting, affiliate marketing, web scraping, and managing advertising campaigns across platforms like Facebook, Google, TikTok, and more.
 
 ## What is Dolphin Anty?
